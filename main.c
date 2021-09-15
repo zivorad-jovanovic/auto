@@ -4,8 +4,9 @@
 
 int main()
 {
-	int a = 5;
-	int b = 8;
+	int a = 7;
+	int b = 4;
+	int c = 0;
 	printf("Pocetna verzija koda");
 	return 0;
 
