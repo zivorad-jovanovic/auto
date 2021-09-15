@@ -11,8 +11,9 @@ int main()
 {
 	int a = 7;
 	int b = 4;
-	int c = 0;
+	int c;
 	printf("Pocetna verzija koda");
+	c = saberi(a,b);
 	return 0;
 
 }
